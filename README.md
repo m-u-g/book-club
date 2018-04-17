@@ -1,4 +1,4 @@
-# book-club
+# MUG's Book Club
 This repo collects a set of notes taken while discussing during our Book Club Meetings
 
 ### Reading in progress
