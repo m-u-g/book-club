@@ -12,3 +12,8 @@ This repo collects a set of notes taken while discussing during our Book Club Me
 ### How to contribute
 
 Would you like to suggest any book to read? Please open an issue here and let's discuss!
+
+## License
+
+This software is licensed under the WTFPL license. For more information, see the LICENSE file in this repository.
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
