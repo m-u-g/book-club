@@ -1,4 +1,4 @@
-Category Theory for Computer Programmers
+Category Theory for Programmers
 ===
 
 ### External resources
